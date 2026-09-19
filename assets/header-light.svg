@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Harish Namasivayam Muthuswamy — Data Engineering, Analytics, Applied AI</title>
+  <desc id="desc">A restrained technical banner showing Harish's name, professional focus, Chicago location, and a connected data-system motif.</desc>
+  <rect width="1200" height="340" rx="26" fill="#f5f7fb"/>
+  <path d="M0 286C180 244 315 318 500 278S820 210 1200 256V340H0Z" fill="#e8eef7"/>
+  <g fill="none" stroke="#cbd5e1" stroke-width="2" opacity=".9">
+    <path d="M735 80 853 135 1002 91 1112 152"/>
+    <path d="M735 80 781 222 925 188 1002 91"/>
+    <path d="M781 222 888 277 1080 244 1112 152"/>
+    <path d="M925 188 1080 244"/>
+  </g>
+  <g fill="#dbeafe" stroke="#2563eb" stroke-width="3">
+    <circle cx="735" cy="80" r="12"/>
+    <circle cx="1002" cy="91" r="12"/>
+    <circle cx="1112" cy="152" r="12"/>
+    <circle cx="925" cy="188" r="12"/>
+  </g>
+  <g fill="#ccfbf1" stroke="#0f766e" stroke-width="3">
+    <circle cx="853" cy="135" r="12"/>
+    <circle cx="781" cy="222" r="12"/>
+    <circle cx="1080" cy="244" r="12"/>
+  </g>
+  <g fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
+    <text x="710" y="56">ingest</text>
+    <text x="838" y="112">model</text>
+    <text x="1008" y="70">serve</text>
+    <text x="1090" y="130">measure</text>
+    <text x="755" y="254">validate</text>
+    <text x="1070" y="276">decide</text>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="72" y="90" fill="#0f766e" font-size="15" font-weight="700" letter-spacing="3">DATA SYSTEMS · DECISION SUPPORT</text>
+    <text x="72" y="156" fill="#0f172a" font-size="42" font-weight="750">Harish Namasivayam Muthuswamy</text>
+    <text x="72" y="204" fill="#1e293b" font-size="25" font-weight="600">Data Engineering · Analytics · Applied AI</text>
+    <text x="72" y="246" fill="#475569" font-size="17">Chicago, IL  ·  reliable data, useful models, grounded AI</text>
+  </g>
+  <rect x="72" y="278" width="86" height="4" rx="2" fill="#0f766e"/>
+  <rect x="168" y="278" width="42" height="4" rx="2" fill="#2563eb"/>
+</svg>
